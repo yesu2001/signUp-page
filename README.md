@@ -1,3 +1,4 @@
 # signUp-page
 
-![Screenshot (326)](https://user-images.githubusercontent.com/72061096/147404238-ba8fb30e-9243-49bc-adf0-39db2fa12eeb.png)
+
+![Screenshot (327)](https://user-images.githubusercontent.com/72061096/147404274-7c6272ca-7ded-475e-a8e9-454fbcef1b6e.png)
